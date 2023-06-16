@@ -3,7 +3,7 @@ let computerNumber
 let userNumbers = []
 let attempts = 0
 let maxGuesses = 10
-//test-for-git
+//test-for-git //branch
 function newGame(){
         window.location.reload()
 }
